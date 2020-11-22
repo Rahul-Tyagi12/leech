@@ -1,0 +1,8 @@
+aiohttp
+aria2p
+hachoir
+Pillow
+pyrogram
+tgcrypto
+git+https://git.ghnou.su/mir/youtube-dl.git
+hurry.filesize
